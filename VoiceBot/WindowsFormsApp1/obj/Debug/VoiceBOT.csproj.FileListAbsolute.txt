@@ -1,0 +1,16 @@
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\VoiceBOT.exe.config
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\VoiceBOT.exe
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\VoiceBOT.pdb
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Bot.resources
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.Properties.Resources.resources
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.csproj.GenerateResource.Cache
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.csproj.CoreCompileInputs.cache
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.exe
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.pdb
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.g.resources
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.csprojResolveAssemblyReference.cache
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ddinu\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\VoiceBOT.csproj.ResolveComReference.cache
